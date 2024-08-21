@@ -65,8 +65,8 @@ const QQ_MAIL = {
   port: 465,
   secure: true,
   auth: {
-    user: 'QQ邮箱', //  发送方邮箱地址
-    pass: 'QQ邮箱 mtp', //  自己申请的mtp的通行码
+    user: 'yunjiang_network@qq.com', //  发送方邮箱地址
+    pass: 'gjnoofweutzibgeb', //  自己申请的mtp的通行码
   },
 };
 
@@ -142,8 +142,8 @@ const STATUS = {
 
 // 默认管理员
 const ADMIN = {
-  id: 'admin@qq.com',
-  password: '12345',
+  id: 'admin',
+  password: 'wmd9115122012..',
 };
 
 /**
