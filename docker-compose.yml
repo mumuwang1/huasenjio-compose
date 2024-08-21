@@ -72,7 +72,7 @@ services:
 
       # 详细语法
       # - target: 80 # 容器内
-      #   published: 80 # 容器外
+      #   published: 8849 # 容器外
       #   protocol: tcp
       #   mode: host
     environment:
